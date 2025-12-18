@@ -35,7 +35,6 @@ export default function LandingPage() {
           button={{ text: "Reserve", href: "contact" }}
           brandName="Coffee House"
           logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1766057059072-m6p3zcqw.jpg"
-          logoAlt="Coffee House logo"
         />
       </div>
 
