@@ -26,7 +26,7 @@ export default function LandingPage() {
       <div id="nav" data-section="nav">
         <NavbarStyleCentered 
           navItems={[
-            { name: "Home", id: "home" },
+            { name: "Home", id: "hero" },
             { name: "About", id: "about" },
             { name: "Menu", id: "products" },
             { name: "Reviews", id: "testimonials" },
@@ -157,7 +157,7 @@ export default function LandingPage() {
           columns={[
             {
               items: [
-                { label: "Home", href: "home" },
+                { label: "Home", href: "hero" },
                 { label: "Menu", href: "products" },
                 { label: "About", href: "about" }
               ]
